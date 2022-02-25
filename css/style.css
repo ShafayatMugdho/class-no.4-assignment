@@ -1,0 +1,27 @@
+
+table, th, td{
+
+		border: solid 1px black;
+
+	}
+
+.box{
+
+	width: 100px;
+	height:100px;
+	background-color: red;
+	border: solid 3px black;
+
+}
+
+	.baby{
+	width: 150px;
+	height:100 px;
+}
+
+	.shaon{
+
+	width: 300px;
+	height: 500px;
+
+}
